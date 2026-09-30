@@ -2,7 +2,7 @@
 
 Carnet personnel par séries : couvertures de chaque tome, progression de lecture, résumé du tome 1, planning français et nouveautés mensuelles.
 
-Version actuellement publiée : https://carnet-mangas.xelisa44.chatgpt.site
+Site publié sur GitHub Pages : https://nyastur.github.io/carnet-mangas/
 
 ## GitHub Pages
 
@@ -21,4 +21,4 @@ Le compteur français exclut les tomes dont la date de parution est future. Les 
 
 ## Publication
 
-Le dépôt contient la version prête à configurer pour GitHub Pages. Le service de catalogue est actif. Il reste à activer GitHub Pages dans Settings → Pages, source « Deploy from a branch », branche `main`, dossier `/ (root)`.
+GitHub Pages est activé depuis la branche `main`, dossier `/ (root)`. Le service de catalogue est actif. Les mises à jour de l’interface sur `main` sont publiées automatiquement.
